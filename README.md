@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hola 👋
+## Soy estudiante de ingeniería de sistemas
 <!--
 **Kenico07/Kenico07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
